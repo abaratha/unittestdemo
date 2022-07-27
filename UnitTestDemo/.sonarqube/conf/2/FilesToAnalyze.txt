@@ -1,0 +1,10 @@
+﻿E:\source\ut\unittestdemo\UnitTestDemo\UnitTestDemo\Controllers\EmployeeController.cs
+E:\source\ut\unittestdemo\UnitTestDemo\UnitTestDemo\Program.cs
+E:\source\ut\unittestdemo\UnitTestDemo\UnitTestDemo\WeatherForecast.cs
+E:\source\ut\unittestdemo\UnitTestDemo\UnitTestDemo\obj\Debug\net6.0\UnitTestDemo.GlobalUsings.g.cs
+E:\source\ut\unittestdemo\UnitTestDemo\UnitTestDemo\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+E:\source\ut\unittestdemo\UnitTestDemo\UnitTestDemo\obj\Debug\net6.0\UnitTestDemo.AssemblyInfo.cs
+E:\source\ut\unittestdemo\UnitTestDemo\UnitTestDemo\obj\Debug\net6.0\UnitTestDemo.MvcApplicationPartsAssemblyInfo.cs
+E:\source\ut\unittestdemo\UnitTestDemo\UnitTestDemo\appsettings.Development.json
+E:\source\ut\unittestdemo\UnitTestDemo\UnitTestDemo\appsettings.json
+E:\source\ut\unittestdemo\UnitTestDemo\UnitTestDemo\Properties\launchSettings.json
