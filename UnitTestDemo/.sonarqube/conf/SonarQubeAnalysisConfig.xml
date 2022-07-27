@@ -139,6 +139,7 @@
   </ServerSettings>
   <LocalSettings>
     <Property Name="sonar.host.url">https://sonarcloud.io</Property>
+    <Property Name="sonar.coverageReportPaths">.\sonarqubecoverage\SonarQube.xml</Property>
     <Property Name="sonar.organization">abaratha</Property>
   </LocalSettings>
   <AnalyzersSettings>
