@@ -26,7 +26,7 @@ namespace UnitTestDemo.Controllers
             }
             else
             { 
-                return NotFound();
+                return BadRequest();
             }
         }
 

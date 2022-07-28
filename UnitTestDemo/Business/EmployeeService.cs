@@ -24,6 +24,18 @@ namespace Business
 
         public async Task<int> Save(Employee employee)
         {
+            if (employee != null)
+            {
+                if (employee.DateOfBirth > DateTime.Now.AddYears(-20))
+                {
+                    return 0;
+                }
+
+                if (employee.EmployeeNumber == 0)
+                {
+                    return -1;
+                }
+            }
             return await _employeeRepository.Save(employee);
         }
     }

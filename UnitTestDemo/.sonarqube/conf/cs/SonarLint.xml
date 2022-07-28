@@ -20,6 +20,9 @@
   </Settings>
   <Rules>
     <Rule>
+      <Key>S6424</Key>
+    </Rule>
+    <Rule>
       <Key>S3329</Key>
     </Rule>
     <Rule>
@@ -144,9 +147,6 @@
     </Rule>
     <Rule>
       <Key>S6422</Key>
-    </Rule>
-    <Rule>
-      <Key>S6424</Key>
     </Rule>
     <Rule>
       <Key>S6420</Key>

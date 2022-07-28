@@ -1,4 +1,4 @@
-﻿E:\source\ut\unittestdemo\UnitTestDemo\API.Tests\UnitTest1.cs
+﻿E:\source\ut\unittestdemo\UnitTestDemo\Employee.UnitTests\UnitTest1.cs
 C:\Users\ajitha.b\.nuget\packages\microsoft.net.test.sdk\16.11.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs
 C:\Users\ajitha.b\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\x64\testhost.exe
 C:\Users\ajitha.b\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\netcoreapp2.1\x64\testhost.dll
@@ -6,4 +6,3 @@ C:\Users\ajitha.b\.nuget\packages\microsoft.testplatform.testhost\16.11.0\build\
 C:\Users\ajitha.b\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\ajitha.b\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
 C:\Users\ajitha.b\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
-E:\source\ut\unittestdemo\UnitTestDemo\API.Tests\TestResults\ac6a5576-7a0f-4d7e-840e-4630f1881917\coverage.cobertura.xml
